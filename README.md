@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Neste projeto foi definido um único usuário de email: lucas@gmail.com e senha: axzcyr
-Para fins de testes unitários, TDD e afins foi utilizado o arquivo login_controller_test.dart
-para 3 testes básicos sendo um com sucesso no login e 2 com falhas.
+Neste projeto foi definido um único usuário de email: lucas@gmail.com e senha: axzcyr.
+Para fins de testes unitários, TDD e afins foi utilizado o arquivo login_controller_test.dart dentro da pasta test/modules/login
+contendo 3 testes básicos de autenticação sendo um para tratar sucesso no login e 2 para tratar Exceptions/falhas.
